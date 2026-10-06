@@ -31,8 +31,11 @@ features that are still being developed.
 
 ## Main project
 
-- **[NN_C / SAM-D](https://github.com/sam3201/NN_C)** — SAM_AGI's primary
-  research and product repository.
+- **SAM_AGI / NN_C** — the primary research and product repository is currently
+  private while active systems, credentials, deployment state, and unfinished
+  research are being developed.
+- Public customer-facing work is available through the
+  **[SAM_AGI Store & Services](https://store.sam-agi.com/store/?utm_source=github&utm_medium=profile&utm_campaign=sam_storefront)**.
 
 I primarily work in C and Python, with additional systems around browser
 interfaces, local inference, game runtimes, embedded hardware, and robotics.
