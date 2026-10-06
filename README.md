@@ -16,6 +16,10 @@ Current public offers include:
 - **Live bladder snails — $4 per 20-snail pack** — current stock and
   fulfillment eligibility are checked first through the
   **[bladder-snail listing](https://store.sam-agi.com/freshwater/bladder-snails?utm_source=github&utm_medium=profile&utm_campaign=bladder_snails)**.
+- **Malaysian trumpet snails / mixed freshwater snails** — MTS, ramshorn, and
+  bladder-snail availability can be checked through the
+  **[three-species snail listing](https://store.sam-agi.com/freshwater/snail-mix/?utm_source=github&utm_medium=profile&utm_campaign=mts_snail_mix)**.
+  The availability/pricing request is $0 and stock is confirmed before payment.
 - **SAM Social — $10/month** and **SAM All Access — $20/month** —
   [membership details](https://store.sam-agi.com/pricing/?utm_source=github&utm_medium=profile&utm_campaign=sam_subscriptions).
 - **Freshwater shrimp, snails, and live aquatic plants** — current listings and
